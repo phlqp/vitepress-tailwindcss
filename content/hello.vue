@@ -12,7 +12,7 @@
                 <div class="ds-card-title">Shoes!</div>
                 <p>If a dog chews shoes whose shoes does he choose?</p>
                 <div class="ds-card-actions justify-end">
-                    <button class="my-btn-secondary">Buy Now</button>
+                    <button class="my-btn-primary">Buy Now</button>
                 </div>
             </div>
         </div>

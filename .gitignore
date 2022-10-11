@@ -1,2 +1,3 @@
 node_modules/*
-docs/.vitepress/dist/*
+content/.vitepress/dist/*
+yarn-error.log
