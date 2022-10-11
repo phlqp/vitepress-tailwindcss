@@ -12,6 +12,7 @@ module.exports = {
     utils: false,
     logs: false,
     rtl: false,
+    prefix: 'ds-',
     darkTheme: "dark",
   },
 };

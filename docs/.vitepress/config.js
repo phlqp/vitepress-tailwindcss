@@ -4,6 +4,7 @@ export default {
     themeConfig: {
       nav: [
         { text: 'Child', link: '/child/' },
+        { text: 'Child1', link: '/child1/' },
       ],
       sidebar: {
         '/child/' : [

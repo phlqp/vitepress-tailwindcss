@@ -14,6 +14,7 @@
   },
   "devDependencies": {
     "@vueuse/core": "^9.3.0",
-    "daisyui": "^2.31.0"
+    "daisyui": "^2.31.0",
+    "postcss-import": "^15.0.0"
   }
 }
